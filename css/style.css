@@ -29,6 +29,7 @@ body {
 .slider_text{
   background-color: rgba(138, 62, 0, 0.8);
   backdrop-filter: blur(100px);
+  padding-top: 10px;
   padding-bottom: 10px;
   border-radius: 15px;
 }
