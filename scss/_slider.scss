@@ -1,3 +1,7 @@
+@font-face {
+    font-family: 'Ashing';
+    src: url('../fonts/Ashing-Regular.otf') format('opentype');
+}
 .slider_bg_1{
     background-image: url(../img/banner/banner.png);
 }
@@ -13,7 +17,7 @@
         .slider_text{
             h3{
              color: #ffffff;
-             font-family: $font1;
+             font-family: 'Ashing',sans-serif;
              font-size: 100px;
              text-transform: capitalize;
              letter-spacing: 2px;
